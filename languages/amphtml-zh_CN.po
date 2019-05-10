@@ -1,0 +1,1775 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP AMP\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-20 16:19+0200\n"
+"PO-Revision-Date: 2019-02-20 19:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-amp.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/amphtml-helper-functions.php:100
+msgid "You currently have no scheduled cron events."
+msgstr ""
+
+#: includes/class-amphtml-license.php:58
+#, php-format
+msgid "Update plugin WP AMP <a href='%s'>View</a>"
+msgstr ""
+
+#: includes/class-amphtml-license.php:73
+#, php-format
+msgid ""
+"Please, activate  WP AMP plugin on the <a href='%s'>License tab</a> as some "
+"features may not work until the activation."
+msgstr ""
+
+#: includes/class-amphtml-license.php:115
+msgid "Server is unavailable at the moment, try again later"
+msgstr ""
+
+#: includes/class-amphtml-license.php:117
+msgid "Verified! Thanks for purchasing wp amp"
+msgstr ""
+
+#: includes/class-amphtml-license.php:122
+msgid "Connection to server failed, please contact support"
+msgstr ""
+
+#: includes/class-amphtml-license.php:247
+msgid "Preparing to download main update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:250
+msgid "Main Update size : "
+msgstr ""
+
+#: includes/class-amphtml-license.php:250
+#: includes/class-amphtml-license.php:299
+msgid ", please don't refresh your browser."
+msgstr ""
+
+#: includes/class-amphtml-license.php:266
+msgid "Downloading main update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:288
+msgid "Main update files downloaded and extracted."
+msgstr ""
+
+#: includes/class-amphtml-license.php:297
+msgid "Preparing to download SQL update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:299
+msgid "SQL Update size : "
+msgstr ""
+
+#: includes/class-amphtml-license.php:314
+msgid "Downloading SQL update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:328
+msgid "SQL update files downloaded."
+msgstr ""
+
+#: includes/class-amphtml-license.php:330
+msgid ""
+"Update successful, Please import the downloaded sql file in your current "
+"database."
+msgstr ""
+
+#: includes/class-amphtml-license.php:334
+msgid ""
+"Update successful, There were no SQL updates. So you can run the updated "
+"application directly."
+msgstr ""
+
+#: includes/class-amphtml-options.php:49
+msgid "WP AMP Endpoint"
+msgstr "WP AMP 端点"
+
+#: includes/class-amphtml-options.php:63
+#: includes/tabs/class-amphtml-tab-analytics.php:122
+#: includes/tabs/class-amphtml-tab-general.php:189
+msgid "Insert a valid endpoint"
+msgstr ""
+
+#: includes/class-amphtml-options.php:93
+msgid "View AMP Version"
+msgstr "查看AMP版本"
+
+#: includes/class-amphtml-options.php:108
+msgid "Visit AMP Site"
+msgstr "访问 AMP 网站"
+
+#: includes/class-amphtml-options.php:178
+msgid "AMP Menu"
+msgstr "AMP菜单"
+
+#: includes/class-amphtml-options.php:179
+msgid "AMP Menu Footer"
+msgstr ""
+
+#: includes/class-amphtml-options.php:217
+msgid "WP AMP Settings"
+msgstr "WP AMP 设置"
+
+#: includes/class-amphtml-options.php:383
+msgid "WP AMP featured Image"
+msgstr "WP AMP 特色图像"
+
+#: includes/class-amphtml-options.php:417
+msgid "Remove featured image"
+msgstr "移除特色图片"
+
+#: includes/class-amphtml-options.php:423
+msgid "Set featured Image"
+msgstr "设置特色图像"
+
+#: includes/class-amphtml-options.php:423
+msgid "Choose an image"
+msgstr "选择一个图像"
+
+#: includes/class-amphtml-options.php:490
+msgid "Override AMP Content"
+msgstr "覆盖 AMP 内容"
+
+#: includes/class-amphtml-options.php:499
+#: includes/tabs/class-amphtml-tab-appearance.php:51
+#: includes/tabs/class-amphtml-tab-templates.php:302
+#: includes/tabs/class-amphtml-tab-templates.php:341
+#: includes/tabs/class-amphtml-tab-wc.php:64
+msgid "Title"
+msgstr "标题"
+
+#: includes/class-amphtml-options.php:506
+msgid "Override AMP Title"
+msgstr "覆盖 AMP 标题"
+
+#: includes/class-amphtml-options.php:515
+msgid "Disable AMP version of this page"
+msgstr "禁用此页面的 AMP 版本"
+
+#: includes/class-amphtml-shortcode.php:68
+#: includes/tabs/class-amphtml-tab-templates.php:298
+msgid "You May Also Like"
+msgstr "你可能也喜欢"
+
+#: includes/class-amphtml-shortcode.php:81
+msgid "Latest blog posts"
+msgstr "最新的博客文章"
+
+#: includes/class-amphtml-shortcode.php:129
+msgid "Switch to default version"
+msgstr "切换到默认版本"
+
+#: includes/class-amphtml-tab-abstract.php:103
+msgid "ID is required settings option!"
+msgstr "ID 是必需的设置选项!"
+
+#: includes/class-amphtml-tab-abstract.php:163
+#: includes/tabs/class-amphtml-tab-appearance.php:445
+#: templates/deprec-templates/title_404.php:2 templates/parts/content_404.php:1
+#: templates/parts/title_404.php:2
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/class-amphtml-tab-abstract.php:256
+#: includes/tabs/class-amphtml-tab-appearance.php:709
+#: includes/tabs/class-amphtml-tab-license.php:33
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/class-amphtml-tab.php:26
+msgid "General"
+msgstr "常规"
+
+#: includes/class-amphtml-tab.php:27
+msgid "Analytics"
+msgstr "分析"
+
+#: includes/class-amphtml-tab.php:28
+msgid "Appearance"
+msgstr "外观"
+
+#: includes/class-amphtml-tab.php:29
+msgid "Templates"
+msgstr "模板"
+
+#: includes/class-amphtml-tab.php:31
+#: includes/tabs/class-amphtml-tab-troubleshooting.php:13
+msgid "Troubleshooting"
+msgstr "故障排除"
+
+#: includes/class-amphtml-tab.php:32
+#: includes/tabs/class-amphtml-tab-status.php:13
+msgid "System Status"
+msgstr "系统状态"
+
+#: includes/class-amphtml-tab.php:33
+msgid "License"
+msgstr "许可证"
+
+#: includes/class-amphtml-template.php:378
+msgid "Read more"
+msgstr "阅读更多"
+
+#: includes/class-amphtml-template.php:1017
+msgid "Search Results"
+msgstr "搜索结果"
+
+#: includes/class-amphtml-template.php:1116
+msgid "Home"
+msgstr "首页"
+
+#: includes/class-amphtml-template.php:1117
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "档案分类 \"%s\""
+
+#: includes/class-amphtml-template.php:1118
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "搜索结果 \"%s\" 查询"
+
+#: includes/class-amphtml-template.php:1119
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "文章标签 \"%s\""
+
+#: includes/class-amphtml-template.php:1120
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "文章由 %s 发布"
+
+#: includes/class-amphtml-template.php:1121
+msgid "Error 404"
+msgstr "错误404"
+
+#: includes/class-amphtml-template.php:1122
+#, php-format
+msgid "Page %s"
+msgstr "页 %s"
+
+#: includes/class-amphtml-template.php:1123
+#, php-format
+msgid "Comment Page %s"
+msgstr "评论页 %s"
+
+#: includes/tabs/class-amphtml-tab-ad.php:28
+#: includes/tabs/class-amphtml-tab-wc.php:247 modules/class-amphtml-ad.php:138
+msgid "Ad Block #1"
+msgstr "广告块 #1"
+
+#: includes/tabs/class-amphtml-tab-ad.php:29
+#: includes/tabs/class-amphtml-tab-wc.php:257 modules/class-amphtml-ad.php:148
+msgid "Ad Block #2"
+msgstr "广告块 #2"
+
+#: includes/tabs/class-amphtml-tab-ad.php:42
+msgid "Type"
+msgstr "类型"
+
+#: includes/tabs/class-amphtml-tab-ad.php:47
+msgid "Ad network"
+msgstr "广告网络"
+
+#: includes/tabs/class-amphtml-tab-ad.php:51
+msgid "Layout"
+msgstr "布局"
+
+#: includes/tabs/class-amphtml-tab-ad.php:65
+msgid "Height"
+msgstr "高度"
+
+#: includes/tabs/class-amphtml-tab-ad.php:71
+msgid "Ad block height (in pixels)"
+msgstr "Ad 块高度 (以像素为单位)"
+
+#: includes/tabs/class-amphtml-tab-ad.php:75
+msgid "Width"
+msgstr "宽度"
+
+#: includes/tabs/class-amphtml-tab-ad.php:81
+msgid "Ad block width (in pixels)"
+msgstr "Ad 块宽度 (以像素为单位)"
+
+#: includes/tabs/class-amphtml-tab-ad.php:85
+#: includes/tabs/class-amphtml-tab-ad.php:104
+msgid "Data Slot"
+msgstr "数据片段"
+
+#: includes/tabs/class-amphtml-tab-ad.php:95
+msgid "AdSense Client"
+msgstr "AdSense客户端"
+
+#: includes/tabs/class-amphtml-tab-ad.php:110
+msgid "data-ad-slot"
+msgstr "数据广告位置"
+
+#: includes/tabs/class-amphtml-tab-ad.php:114
+msgid "Custom Ad"
+msgstr "自定义广告"
+
+#: includes/tabs/class-amphtml-tab-ad.php:120
+msgid ""
+"Put Ad code in accordance with the <a href=\"https://www.ampproject.org/docs/"
+"reference/components/amp-ad\">Reference</a>"
+msgstr ""
+"按照<a href=\"https://www.ampproject.org/docs/reference/components/amp-ad\">"
+"引用</a>放置 Ad 代码"
+
+#: includes/tabs/class-amphtml-tab-ad.php:146
+msgid "Insert a valid ad block width"
+msgstr "插入有效的广告宽度"
+
+#: includes/tabs/class-amphtml-tab-ad.php:152
+msgid "Insert a valid ad block height"
+msgstr "插入有效的广告块高度"
+
+#: includes/tabs/class-amphtml-tab-ad.php:162
+msgid "Insert a valid ad adsense data slot"
+msgstr "插入有效的广告联盟数据的位置"
+
+#: includes/tabs/class-amphtml-tab-ad.php:171
+msgid "AdSense"
+msgstr "广告"
+
+#: includes/tabs/class-amphtml-tab-ad.php:174
+msgid "Doubleclick"
+msgstr "双击"
+
+#: includes/tabs/class-amphtml-tab-ad.php:177
+msgid "Other"
+msgstr "其他"
+
+#: includes/tabs/class-amphtml-tab-ad.php:180
+msgid "AdSense Auto Ads"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:13
+msgid "Google Analytics Code"
+msgstr "谷歌分析代码"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:18
+msgid "Setup Google Analytics tracking ID"
+msgstr "设置谷歌分析跟踪 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:22
+msgid "Google Tag Manager ID"
+msgstr "谷歌标签管理器 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:27
+msgid "Replacing GTM-XXXXXX with your container ID"
+msgstr "用您的容器 ID 替换 GTM XXXXXX"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:31
+msgid "Yandex Metrika counter ID"
+msgstr "Yandex Metrika 计数器 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:36
+msgid "Setup Yandex Metrika counter ID"
+msgstr "安装程序 Yandex Metrika 计数器 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:40
+msgid "Facebook Pixel ID"
+msgstr "Facebook 像素 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:44
+msgid "Setup Facebook pixel ID"
+msgstr "设置 Facebook 像素 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:48
+msgid "Custom Analytic"
+msgstr "自定义分析"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:52
+msgid "Put custom analytics code here"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:72
+msgid "Insert a valid Google Analytics ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:87
+msgid "Insert a valid counter ID"
+msgstr "插入有效的计数器 ID"
+
+#: includes/tabs/class-amphtml-tab-analytics.php:98
+#: includes/tabs/class-amphtml-tab-general.php:140
+msgid "Insert a valid content width"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:111
+msgid "Insert a valid Pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:19
+msgid "Colors"
+msgstr "颜色"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:20
+msgid "Fonts"
+msgstr "字体"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:21
+msgid "Header"
+msgstr "页眉"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:22
+#: includes/tabs/class-amphtml-tab-appearance.php:78
+msgid "Footer"
+msgstr "页脚"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:23
+msgid "Post Meta Data"
+msgstr "文章Meta数据"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:24
+#: includes/tabs/class-amphtml-tab-appearance.php:330
+#: includes/tabs/class-amphtml-tab-templates.php:276
+#: includes/tabs/class-amphtml-tab-templates.php:467
+#: includes/tabs/class-amphtml-tab-wc.php:172
+msgid "Social Share Buttons"
+msgstr "社交分享按钮"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:25
+#: includes/tabs/class-amphtml-tab-appearance.php:364
+msgid "Extra CSS"
+msgstr "额外CSS"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:33
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:42
+#: templates/deprec-templates/nav.php:70 templates/deprec-templates/nav.php:82
+#: templates/nav.php:70 templates/nav.php:87
+msgid "Menu"
+msgstr "菜单"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:60
+msgid "Post Meta"
+msgstr "文章Meta"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:69
+msgid "Content"
+msgstr "内容"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:87
+msgid "Custom Fonts"
+msgstr "自定义字体"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:102
+msgid "Page Background"
+msgstr "页面背景"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:108
+msgid "Header Background"
+msgstr "标题背景"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:114
+msgid "Header Text"
+msgstr "页眉文本"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:120
+msgid "Header Menu Background"
+msgstr "标题菜单背景"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:126
+msgid "Header Menu Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:132
+msgid "Main Title"
+msgstr "主标题"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:138
+msgid "Main Text"
+msgstr "主文字"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:144
+msgid "Link Text"
+msgstr "链接文本"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:150
+msgid "Link Hover"
+msgstr "链接悬停"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:156
+msgid "Inputs Color"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:162
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:168
+msgid "Footer Background"
+msgstr "页脚背景"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:190
+msgid "Favicon"
+msgstr "网站图标"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:197
+msgid "Header Menu"
+msgstr "标题菜单"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:199
+msgid "Show header menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:199
+msgid "set AMP menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:206
+msgid "Header Menu Type"
+msgstr "标题菜单类型"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:214
+msgid "Header Menu Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:222
+msgid "Logo Type"
+msgstr "Logo类型"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:230
+msgid "Logo Text"
+msgstr "标志文本"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:239
+msgid "Logo Icon"
+msgstr "标志图标"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:251
+msgid "Footer Menu"
+msgstr "页脚菜单"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:253
+msgid "Show footer menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:253
+msgid "set footer AMP menu "
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:260
+msgid "Footer Content"
+msgstr "页脚内容"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:265
+msgid ""
+"This is the footer content block for all AMP pages. <br>Leave empty to hide "
+"footer at all. <br>Plain html without inline styles allowed. (<a href="
+"\"https://github.com/ampproject/amphtml/blob/master/spec/amp-tag-addendum."
+"md#html5-tag-whitelist\" target=\"_blank\">HTML5 Tag Whitelist</a>)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:269
+msgid "Scroll to Top Button"
+msgstr "滚动到顶部按钮"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:270
+msgid "Back to top"
+msgstr "回到顶部"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:274
+msgid "Leave empty to hide this button."
+msgstr "留空以隐藏此按钮。"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:283
+msgid "Author"
+msgstr "作者"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:288
+msgid "Show post author"
+msgstr "显示文章作者"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:292
+#: includes/tabs/class-amphtml-tab-wc.php:145 templates/meta-cats.php:13
+msgid "Categories"
+msgstr "分类"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:297
+msgid "Show post categories"
+msgstr "显示文章类别"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:301
+#: includes/tabs/class-amphtml-tab-wc.php:154 templates/meta-tags.php:13
+msgid "Tags"
+msgstr "标签"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:306
+msgid "Show post tags"
+msgstr "显示文章标签"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:310
+msgid "Date Format"
+msgstr "日期格式"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:336
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:337
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:338
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:339
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:340
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:341
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:342
+msgid "Email"
+msgstr "邮箱"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:349
+msgid "Facebook Like"
+msgstr "Facebook喜欢"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:354
+msgid "Show Facebook like button"
+msgstr "显示像按钮的 Facebook"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:363
+msgid "Enter Your CSS Code"
+msgstr "输入您的 CSS 代码"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:388
+msgid "Insert a valid color"
+msgstr "插入有效颜色"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:459
+#: includes/tabs/class-amphtml-tab-appearance.php:460
+#: includes/tabs/class-amphtml-tab-appearance.php:493
+#: includes/tabs/class-amphtml-tab-appearance.php:494
+msgid "Font "
+msgstr "字体"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:463
+msgid "Font name "
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:465
+#: includes/tabs/class-amphtml-tab-appearance.php:499
+#: includes/tabs/class-amphtml-tab-appearance.php:501
+msgid "Font name"
+msgstr "字体名称"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:469
+#: includes/tabs/class-amphtml-tab-appearance.php:507
+msgid "Font link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:471
+#: includes/tabs/class-amphtml-tab-appearance.php:509
+msgid "Path to the font file (font-weight: regular)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:475
+#: includes/tabs/class-amphtml-tab-appearance.php:515
+msgid "Bold Font link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:477
+#: includes/tabs/class-amphtml-tab-appearance.php:517
+msgid "Path to the font file (font-weight: bold)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:480
+msgid "Delete font"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:480
+#: includes/tabs/class-amphtml-tab-appearance.php:521
+msgid "Delete the font"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:528
+msgid "Add font"
+msgstr "添加字体"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:562
+msgid "Icon Logo"
+msgstr "图标徽标"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:565
+msgid "Text Logo"
+msgstr "文本Logo"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:568
+msgid "Icon and Text Logo"
+msgstr "图标和文本徽标"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:571
+msgid "Image Logo"
+msgstr "图像Logo"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:585
+msgid "Site Logo"
+msgstr "网站LOGO"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:590
+#: includes/tabs/class-amphtml-tab-appearance.php:616
+#: includes/tabs/class-amphtml-tab-schemaorg.php:53
+#: includes/tabs/class-amphtml-tab-schemaorg.php:76
+msgid "Upload Image"
+msgstr "上传图片"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:595
+#: includes/tabs/class-amphtml-tab-appearance.php:621
+#: includes/tabs/class-amphtml-tab-schemaorg.php:55
+#: includes/tabs/class-amphtml-tab-schemaorg.php:78
+msgid "Reset Image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:597
+#: includes/tabs/class-amphtml-tab-appearance.php:622
+msgid "The image will have full size."
+msgstr "图像将具有全尺寸。"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:598
+msgid "The image will be resized to fit in a 32x32 box (but not cropped)"
+msgstr "将调整图像大小以适应32x32 框 (但不裁剪)"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:611
+msgid "Site Favicon"
+msgstr "站点图标"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:674
+msgid "None"
+msgstr "无"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:683
+#: templates/meta-time.php:15
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s 前"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:683
+msgid "Relative"
+msgstr "相对"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:691
+msgid "Default system format"
+msgstr "默认系统格式"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:693
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:697
+msgid "Custom:"
+msgstr "自定义："
+
+#: includes/tabs/class-amphtml-tab-appearance.php:712
+msgid "Default theme settings"
+msgstr "默认主题设置"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:725
+msgid "Important"
+msgstr "重要"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:725
+msgid "Do not use disallowed styles for avoiding AMP validation errors."
+msgstr "不要使用不允许的样式来避免 AMP 验证错误。"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:726
+msgid "Please see"
+msgstr "请参阅"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:728
+msgid "Supported CSS"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:13
+msgid "AMP Endpoint"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:16
+msgid ""
+"This string will be added to the end of URL for all pages with AMP content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:20
+msgid "Redirect Mobile Users"
+msgstr "重定向移动用户"
+
+#: includes/tabs/class-amphtml-tab-general.php:23
+msgid "Redirect all mobile users to AMP version by default"
+msgstr "默认情况下, 将所有移动用户重定向到 AMP 版本"
+
+#: includes/tabs/class-amphtml-tab-general.php:27
+msgid "AMP Content Max-Width"
+msgstr "放大器内容最大宽度"
+
+#: includes/tabs/class-amphtml-tab-general.php:31
+msgid "Setup maximum width for AMP content (in pixels)"
+msgstr "设置 AMP 内容的最大宽度 (以像素为单位)"
+
+#: includes/tabs/class-amphtml-tab-general.php:35
+msgid "AMP Element Default Height"
+msgstr "放大器元素默认高度"
+
+#: includes/tabs/class-amphtml-tab-general.php:39
+msgid ""
+"If element (image, iframe, etc) height value does not exist, will be applied "
+"this one"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:44
+msgid "Post Types"
+msgstr "文章类型"
+
+#: includes/tabs/class-amphtml-tab-general.php:51
+msgid "Enable AMP for selected post types"
+msgstr "为所选开机自检类型启用 AMP"
+
+#: includes/tabs/class-amphtml-tab-general.php:55
+#: includes/tabs/class-amphtml-tab-templates.php:20
+msgid "Archives"
+msgstr "档案"
+
+#: includes/tabs/class-amphtml-tab-general.php:62
+msgid "Enable AMP for selected archive pages"
+msgstr "为所选存档页启用 AMP"
+
+#: includes/tabs/class-amphtml-tab-general.php:66
+msgid "Compatibility Mode"
+msgstr "兼容模式"
+
+#: includes/tabs/class-amphtml-tab-general.php:70
+msgid "Remove third-party the_content hooks for better compatibility"
+msgstr "删除第三方 the_content 挂钩以提高兼容性"
+
+#: includes/tabs/class-amphtml-tab-general.php:74
+msgid "Hide Forms"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:78
+msgid "Hide forms in post content for avoiding validation errors"
+msgstr "隐藏 post 内容中的窗体以避免验证错误"
+
+#: includes/tabs/class-amphtml-tab-general.php:82
+msgid "Hide Contact Forms"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:86
+msgid "Hide contact forms in post content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:90
+msgid "Enable RTL"
+msgstr "启用RTL"
+
+#: includes/tabs/class-amphtml-tab-general.php:94
+msgid "Enable Right-to-Left language support"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:98
+msgid "Excerpt length"
+msgstr "摘要长度"
+
+#: includes/tabs/class-amphtml-tab-general.php:103
+msgid "Limit number of words that are shown on excerpt."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:107
+msgid "Debug Mode"
+msgstr "调试模式"
+
+#: includes/tabs/class-amphtml-tab-general.php:118
+msgid "Show errors, warnings and notices"
+msgstr "显示错误、警告和通知"
+
+#: includes/tabs/class-amphtml-tab-general.php:122
+msgid "Design template"
+msgstr "设计范本"
+
+#: includes/tabs/class-amphtml-tab-general.php:132
+#, php-format
+msgid ""
+"Old styles will not work with the new design. If you are going to use the "
+"new design template, please, backup your website and <a href=\"%s\">reset</"
+"a> old settings."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:153
+msgid "Insert a valid element height"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:166
+msgid "Insert a valid pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:178
+msgid "The excerpt length field can contain only numbers"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:12
+msgid "Codecanyon user name"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:19
+msgid "Enter your License"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:39
+msgid "Update"
+msgstr "更新"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:12
+msgid "Publisher Logo"
+msgstr "出版商徽标"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:18
+#: includes/tabs/class-amphtml-tab-schemaorg.php:69
+msgid "Default Image"
+msgstr "默认图像"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:24
+msgid "Content Type"
+msgstr "内容类型"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:47
+msgid "Default Logo"
+msgstr "默认徽标"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:56
+msgid ""
+"This image is required for Schema.org markup. The logo should fit in a "
+"60x600px rectangle, and either be exactly 60px high or exactly 600px wide."
+msgstr ""
+"此图像是 Schema.org 标记所必需的。该徽标应适合在一个60x600px 矩形, 或者是完全"
+"60px 高或完全600px 宽."
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:58
+msgid "See full requirements."
+msgstr "查看完整的需求."
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:79
+msgid ""
+"This image is required for Schema.org markup and will be used if you have "
+"not set up featured image for post/page. Image should be at least 1200 "
+"pixels wide."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:81
+msgid "See requirements."
+msgstr "请参阅要求。"
+
+#: includes/tabs/class-amphtml-tab-status.php:62
+msgid "Server Environment"
+msgstr "服务器环境"
+
+#: includes/tabs/class-amphtml-tab-status.php:67
+msgid "Server Info"
+msgstr "服务器信息"
+
+#: includes/tabs/class-amphtml-tab-status.php:71
+msgid "PHP Version"
+msgstr "PHP版本"
+
+#: includes/tabs/class-amphtml-tab-status.php:82
+msgid "WP Version"
+msgstr "WP版本"
+
+#: includes/tabs/class-amphtml-tab-status.php:93
+msgid "WooCommerce Version"
+msgstr "WooCommerce 版本"
+
+#: includes/tabs/class-amphtml-tab-status.php:104
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: includes/tabs/class-amphtml-tab-status.php:108
+msgid "MySQL Version"
+msgstr "MySQL版本"
+
+#: includes/tabs/class-amphtml-tab-status.php:112
+msgid "allow_url_fopen"
+msgstr "allow_url_fopen"
+
+#: includes/tabs/class-amphtml-tab-status.php:120
+msgid "cURL Version"
+msgstr "cURL版本"
+
+#: includes/tabs/class-amphtml-tab-status.php:126
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/tabs/class-amphtml-tab-status.php:161
+msgid "See WordPress minimum requirements"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:162 templates/no-form.php:3
+msgid "here"
+msgstr "这里"
+
+#: includes/tabs/class-amphtml-tab-templates.php:16
+msgid "Posts"
+msgstr "文章"
+
+#: includes/tabs/class-amphtml-tab-templates.php:17
+msgid "Pages"
+msgstr "页面"
+
+#: includes/tabs/class-amphtml-tab-templates.php:18
+msgid "Search"
+msgstr "搜索"
+
+#: includes/tabs/class-amphtml-tab-templates.php:19
+msgid "Blog Page"
+msgstr "博客页面"
+
+#: includes/tabs/class-amphtml-tab-templates.php:21
+msgid "404 Page"
+msgstr "404页面"
+
+#: includes/tabs/class-amphtml-tab-templates.php:36
+#: includes/tabs/class-amphtml-tab-templates.php:169
+#: includes/tabs/class-amphtml-tab-templates.php:386
+#: includes/tabs/class-amphtml-tab-templates.php:490
+#: includes/tabs/class-amphtml-tab-templates.php:678
+#: includes/tabs/class-amphtml-tab-wc.php:25
+#: includes/tabs/class-amphtml-tab-wc.php:305
+#: includes/tabs/class-amphtml-tab-wc.php:415
+msgid "Breadcrumbs"
+msgstr "面包屑"
+
+#: includes/tabs/class-amphtml-tab-templates.php:41
+#: includes/tabs/class-amphtml-tab-templates.php:175
+#: includes/tabs/class-amphtml-tab-templates.php:392
+#: includes/tabs/class-amphtml-tab-templates.php:496
+#: includes/tabs/class-amphtml-tab-templates.php:684
+#: includes/tabs/class-amphtml-tab-wc.php:31
+#: includes/tabs/class-amphtml-tab-wc.php:314
+#: includes/tabs/class-amphtml-tab-wc.php:424
+msgid "Show breadcrumbs"
+msgstr "显示面包屑"
+
+#: includes/tabs/class-amphtml-tab-templates.php:45
+msgid "404 Page Title"
+msgstr "404页面标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:46
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！ 该页面无法找到。"
+
+#: includes/tabs/class-amphtml-tab-templates.php:54
+msgid "404 Page Content"
+msgstr "404页面内容"
+
+#: includes/tabs/class-amphtml-tab-templates.php:55
+msgid "Nothing was found at this location."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:60
+#: includes/tabs/class-amphtml-tab-templates.php:245
+#: includes/tabs/class-amphtml-tab-templates.php:452
+#: includes/tabs/class-amphtml-tab-templates.php:515
+#: includes/tabs/class-amphtml-tab-templates.php:614
+#: includes/tabs/class-amphtml-tab-templates.php:732
+msgid ""
+"Plain html without inline styles allowed. (<a href=\"https://github.com/"
+"ampproject/amphtml/blob/master/spec/amp-tag-addendum.md#html5-tag-whitelist"
+"\" target=\"_blank\">HTML5 Tag Whitelist</a>)"
+msgstr ""
+"不允许使用内嵌样式的纯 html。(<a href=\"\"https://github.com/ampproject/"
+"amphtml/blob/master/spec/amp-tag-addendum.md#html5-tag-whitelist\"\" target="
+"\"\"_blank\"\">HTML5 标记白名单</a>)"
+
+#: includes/tabs/class-amphtml-tab-templates.php:64
+#: includes/tabs/class-amphtml-tab-templates.php:180
+#: includes/tabs/class-amphtml-tab-templates.php:417
+#: includes/tabs/class-amphtml-tab-templates.php:557
+#: includes/tabs/class-amphtml-tab-templates.php:656
+#: includes/tabs/class-amphtml-tab-templates.php:783
+msgid "Search Form"
+msgstr "搜索表单"
+
+#: includes/tabs/class-amphtml-tab-templates.php:69
+#: includes/tabs/class-amphtml-tab-templates.php:185
+#: includes/tabs/class-amphtml-tab-templates.php:422
+#: includes/tabs/class-amphtml-tab-templates.php:562
+#: includes/tabs/class-amphtml-tab-templates.php:661
+#: includes/tabs/class-amphtml-tab-templates.php:788
+msgid "Enable search form. Needs SSL certificate for AMP validation."
+msgstr "启用搜索表单。需要用于 AMP 验证的 SSL 证书。"
+
+#: includes/tabs/class-amphtml-tab-templates.php:190
+#: includes/tabs/class-amphtml-tab-templates.php:397
+#: includes/tabs/class-amphtml-tab-templates.php:580
+#: includes/tabs/class-amphtml-tab-templates.php:689
+#: includes/tabs/class-amphtml-tab-wc.php:36
+#: includes/tabs/class-amphtml-tab-wc.php:291
+#: includes/tabs/class-amphtml-tab-wc.php:441
+msgid "Original Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:196
+msgid "Show link to the original version of the post"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:201
+#: includes/tabs/class-amphtml-tab-templates.php:408
+#: includes/tabs/class-amphtml-tab-templates.php:591
+#: includes/tabs/class-amphtml-tab-templates.php:700
+#: includes/tabs/class-amphtml-tab-wc.php:47
+#: includes/tabs/class-amphtml-tab-wc.php:319
+#: includes/tabs/class-amphtml-tab-wc.php:456
+msgid "View Original Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:205
+#: includes/tabs/class-amphtml-tab-templates.php:225
+#: includes/tabs/class-amphtml-tab-templates.php:412
+#: includes/tabs/class-amphtml-tab-templates.php:595
+#: includes/tabs/class-amphtml-tab-templates.php:704
+#: includes/tabs/class-amphtml-tab-wc.php:51
+#: includes/tabs/class-amphtml-tab-wc.php:323
+#: includes/tabs/class-amphtml-tab-wc.php:460
+msgid "Button title"
+msgstr "按钮标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:210
+msgid "Comments Button"
+msgstr "评论按钮"
+
+#: includes/tabs/class-amphtml-tab-templates.php:216
+msgid "Show link to the comment form"
+msgstr "显示指向批注窗体的链接"
+
+#: includes/tabs/class-amphtml-tab-templates.php:221
+#: templates/parts/page_comments_btn.php:11
+msgid "Comments"
+msgstr "评论"
+
+#: includes/tabs/class-amphtml-tab-templates.php:230
+msgid "Post Title"
+msgstr "文章标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:239
+#: includes/tabs/class-amphtml-tab-templates.php:446
+#: includes/tabs/class-amphtml-tab-templates.php:509
+#: includes/tabs/class-amphtml-tab-templates.php:608
+#: includes/tabs/class-amphtml-tab-templates.php:726
+msgid "Custom HTML"
+msgstr "自定义HTML"
+
+#: includes/tabs/class-amphtml-tab-templates.php:249
+#: includes/tabs/class-amphtml-tab-templates.php:436
+#: includes/tabs/class-amphtml-tab-templates.php:529
+#: includes/tabs/class-amphtml-tab-templates.php:628
+msgid "Featured Image"
+msgstr "特色图片"
+
+#: includes/tabs/class-amphtml-tab-templates.php:254
+msgid "Show post thumbnail"
+msgstr "显示帖子缩略图"
+
+#: includes/tabs/class-amphtml-tab-templates.php:258
+#: includes/tabs/class-amphtml-tab-templates.php:538
+#: includes/tabs/class-amphtml-tab-templates.php:637
+#: includes/tabs/class-amphtml-tab-templates.php:764
+msgid "Post Meta Block"
+msgstr "文章元快"
+
+#: includes/tabs/class-amphtml-tab-templates.php:263
+#: includes/tabs/class-amphtml-tab-templates.php:769
+msgid "Show post author, categories and published time"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:267
+msgid "Post Content"
+msgstr "发布内容"
+
+#: includes/tabs/class-amphtml-tab-templates.php:282
+#: includes/tabs/class-amphtml-tab-templates.php:473
+#: includes/tabs/class-amphtml-tab-wc.php:177
+msgid "Show social share buttons"
+msgstr "显示社交分享按钮"
+
+#: includes/tabs/class-amphtml-tab-templates.php:287
+msgid "Related Posts"
+msgstr "相关文章"
+
+#: includes/tabs/class-amphtml-tab-templates.php:293
+msgid "Show related posts"
+msgstr "显示相关文章"
+
+#: includes/tabs/class-amphtml-tab-templates.php:297
+msgid "Related Posts Title"
+msgstr "显示标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:306
+msgid "Number of Related Posts"
+msgstr "相关文章数量"
+
+#: includes/tabs/class-amphtml-tab-templates.php:311
+#: includes/tabs/class-amphtml-tab-templates.php:350
+msgid "Post count"
+msgstr "文章数"
+
+#: includes/tabs/class-amphtml-tab-templates.php:315
+#: includes/tabs/class-amphtml-tab-templates.php:354
+msgid "Post"
+msgstr "文章"
+
+#: includes/tabs/class-amphtml-tab-templates.php:320
+#: includes/tabs/class-amphtml-tab-templates.php:359
+msgid "Show Post Thumbnail"
+msgstr "显示文章特色图像"
+
+#: includes/tabs/class-amphtml-tab-templates.php:326
+#: includes/tabs/class-amphtml-tab-templates.php:337
+msgid "Recent Posts"
+msgstr "最近的帖子"
+
+#: includes/tabs/class-amphtml-tab-templates.php:332
+msgid "Show recent posts"
+msgstr "显示最近的帖子"
+
+#: includes/tabs/class-amphtml-tab-templates.php:336
+msgid "Recent Posts Title"
+msgstr "近期文章标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:345
+msgid "Number of Recent Posts"
+msgstr "最近文章数目"
+
+#: includes/tabs/class-amphtml-tab-templates.php:363
+msgid "Post Comments"
+msgstr "文章评论"
+
+#: includes/tabs/class-amphtml-tab-templates.php:368
+msgid "Show post comments"
+msgstr "显示文章评论"
+
+#: includes/tabs/class-amphtml-tab-templates.php:403
+#: includes/tabs/class-amphtml-tab-wc.php:301
+#: includes/tabs/class-amphtml-tab-wc.php:451
+msgid "Show link to the original version of the page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:426
+#: includes/tabs/class-amphtml-tab-templates.php:500
+msgid "Page Title"
+msgstr "页面标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:442
+msgid "Show page thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:457
+msgid "Page Content"
+msgstr "页面内容"
+
+#: includes/tabs/class-amphtml-tab-templates.php:520
+#: includes/tabs/class-amphtml-tab-templates.php:619
+#: includes/tabs/class-amphtml-tab-templates.php:737
+#: includes/tabs/class-amphtml-tab-wc.php:181
+msgid "Content Block"
+msgstr "内容区块"
+
+#: includes/tabs/class-amphtml-tab-templates.php:525
+msgid "Search Page Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:534
+#: includes/tabs/class-amphtml-tab-templates.php:633
+msgid "Show posts thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:543
+#: includes/tabs/class-amphtml-tab-templates.php:642
+msgid "Show posts author, categories and published time"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:547
+#: includes/tabs/class-amphtml-tab-templates.php:646
+msgid "Excerpt Block"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:552
+#: includes/tabs/class-amphtml-tab-templates.php:651
+msgid "Show excerpt"
+msgstr "显示摘录"
+
+#: includes/tabs/class-amphtml-tab-templates.php:586
+msgid "Show link to the original version of the blog"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:599
+msgid "Blog Page Title"
+msgstr "博客页面标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:600
+msgid "Blog"
+msgstr "博客"
+
+#: includes/tabs/class-amphtml-tab-templates.php:624
+msgid "Blog Page Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:695
+msgid "Show link to the original version of the archive"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:708
+msgid "Archive Title"
+msgstr "存档标题"
+
+#: includes/tabs/class-amphtml-tab-templates.php:717
+#: includes/tabs/class-amphtml-tab-wc.php:190
+#: includes/tabs/class-amphtml-tab-wc.php:428
+msgid "Description"
+msgstr "描述"
+
+#: includes/tabs/class-amphtml-tab-templates.php:722
+#: includes/tabs/class-amphtml-tab-wc.php:436
+msgid "Show description of archive page"
+msgstr "显示存档页的说明"
+
+#: includes/tabs/class-amphtml-tab-templates.php:746
+msgid "Featured Images"
+msgstr "特色图片"
+
+#: includes/tabs/class-amphtml-tab-templates.php:751
+msgid "Show posts thumbnails"
+msgstr "显示帖子缩略图"
+
+#: includes/tabs/class-amphtml-tab-templates.php:755
+msgid "Featured Images Link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:760
+msgid "Link featured images to the post"
+msgstr "将特色图像链接到帖子"
+
+#: includes/tabs/class-amphtml-tab-templates.php:773
+msgid "Post Excerpt"
+msgstr "文章摘录"
+
+#: includes/tabs/class-amphtml-tab-templates.php:778
+msgid "Show post excerpt"
+msgstr "显示文章摘要"
+
+#: includes/tabs/class-amphtml-tab-wc.php:10
+msgid "Product Page"
+msgstr "产品页面"
+
+#: includes/tabs/class-amphtml-tab-wc.php:11
+msgid "Shop Page"
+msgstr "商城页面"
+
+#: includes/tabs/class-amphtml-tab-wc.php:12
+msgid "Product Archives"
+msgstr "产品档案"
+
+#: includes/tabs/class-amphtml-tab-wc.php:13
+#: includes/tabs/class-amphtml-tab-wc.php:385
+#: includes/tabs/class-amphtml-tab-wc.php:521
+msgid "Add to Cart"
+msgstr "添加到购物车"
+
+#: includes/tabs/class-amphtml-tab-wc.php:42
+msgid "Show link to the original version of the product"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:55
+#: includes/tabs/class-amphtml-tab-wc.php:339
+#: includes/tabs/class-amphtml-tab-wc.php:476
+msgid "Image"
+msgstr "图片"
+
+#: includes/tabs/class-amphtml-tab-wc.php:60
+msgid "Show product image"
+msgstr "展示产品图像"
+
+#: includes/tabs/class-amphtml-tab-wc.php:73 templates/parts/product_sku.php:2
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/tabs/class-amphtml-tab-wc.php:78
+msgid "Show product SKU"
+msgstr "显示产品SKU"
+
+#: includes/tabs/class-amphtml-tab-wc.php:82
+#: includes/tabs/class-amphtml-tab-wc.php:227
+#: includes/tabs/class-amphtml-tab-wc.php:348
+#: includes/tabs/class-amphtml-tab-wc.php:485
+msgid "Rating"
+msgstr "评分"
+
+#: includes/tabs/class-amphtml-tab-wc.php:87
+#: includes/tabs/class-amphtml-tab-wc.php:232
+#: includes/tabs/class-amphtml-tab-wc.php:353
+#: includes/tabs/class-amphtml-tab-wc.php:490
+msgid "Show product rating"
+msgstr "显示产品评分"
+
+#: includes/tabs/class-amphtml-tab-wc.php:91
+#: includes/tabs/class-amphtml-tab-wc.php:367
+#: includes/tabs/class-amphtml-tab-wc.php:503
+msgid "Add To Cart Block"
+msgstr "添加到购物车块"
+
+#: includes/tabs/class-amphtml-tab-wc.php:100
+#: includes/tabs/class-amphtml-tab-wc.php:236
+#: includes/tabs/class-amphtml-tab-wc.php:376
+#: includes/tabs/class-amphtml-tab-wc.php:512
+#: templates/deprec-templates/shop_add_to_cart_block.php:3
+#: templates/deprec-templates/wc_archives_add_to_cart_block.php:3
+msgid "Price"
+msgstr "价格"
+
+#: includes/tabs/class-amphtml-tab-wc.php:105
+#: includes/tabs/class-amphtml-tab-wc.php:241
+msgid "Show product price"
+msgstr "显示产品价格"
+
+#: includes/tabs/class-amphtml-tab-wc.php:109
+msgid "Stock Status"
+msgstr "库存状态"
+
+#: includes/tabs/class-amphtml-tab-wc.php:114
+msgid "Show product stock status"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:118
+msgid "Quantity"
+msgstr "数量"
+
+#: includes/tabs/class-amphtml-tab-wc.php:123
+msgid "Show quantity option. Needs SSL certificate for AMP validation."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:127
+msgid "Options"
+msgstr "选项"
+
+#: includes/tabs/class-amphtml-tab-wc.php:132
+msgid "Show variable options. Needs SSL certificate for AMP validation."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:136
+#: includes/tabs/class-amphtml-tab-wc.php:536
+msgid "Add To Cart"
+msgstr "添加到购物车"
+
+#: includes/tabs/class-amphtml-tab-wc.php:141
+msgid "Show add to cart button"
+msgstr "显示添加购物车按钮"
+
+#: includes/tabs/class-amphtml-tab-wc.php:150
+msgid "Show product categories"
+msgstr "显示产品类别"
+
+#: includes/tabs/class-amphtml-tab-wc.php:159
+msgid "Show product tags"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:163
+#: includes/tabs/class-amphtml-tab-wc.php:357
+#: includes/tabs/class-amphtml-tab-wc.php:494
+msgid "Short Description"
+msgstr "简短描述"
+
+#: includes/tabs/class-amphtml-tab-wc.php:168
+msgid "Show product short description"
+msgstr "显示产品简介"
+
+#: includes/tabs/class-amphtml-tab-wc.php:195
+msgid "Show product description"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:199
+msgid "Attributes"
+msgstr "属性"
+
+#: includes/tabs/class-amphtml-tab-wc.php:204
+msgid "Show product attributes"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:208
+#: templates/deprec-templates/product_description_block.php:33
+msgid "Reviews"
+msgstr "评论"
+
+#: includes/tabs/class-amphtml-tab-wc.php:213
+msgid "Show product reviews"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:217
+#: templates/parts/product_related_products_block.php:13
+msgid "Related Products"
+msgstr "相关产品"
+
+#: includes/tabs/class-amphtml-tab-wc.php:223
+msgid "Show related products"
+msgstr "显示相关产品"
+
+#: includes/tabs/class-amphtml-tab-wc.php:252 modules/class-amphtml-ad.php:143
+msgid "Show ad block #1"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:262 modules/class-amphtml-ad.php:153
+msgid "Show ad block #2"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:274
+#: includes/tabs/class-amphtml-tab-wc.php:399
+msgid "View"
+msgstr "查看"
+
+#: includes/tabs/class-amphtml-tab-wc.php:327
+#: includes/tabs/class-amphtml-tab-wc.php:464
+msgid "Link Image"
+msgstr "链接图片"
+
+#: includes/tabs/class-amphtml-tab-wc.php:335
+#: includes/tabs/class-amphtml-tab-wc.php:472
+msgid "Link product images"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:344
+#: includes/tabs/class-amphtml-tab-wc.php:481
+msgid "Show product images"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:363
+#: includes/tabs/class-amphtml-tab-wc.php:499
+msgid "Show product short descriptions"
+msgstr "显示产品简短说明"
+
+#: includes/tabs/class-amphtml-tab-wc.php:381
+#: includes/tabs/class-amphtml-tab-wc.php:517
+msgid "Show product prices"
+msgstr "显示产品价格"
+
+#: includes/tabs/class-amphtml-tab-wc.php:390
+#: includes/tabs/class-amphtml-tab-wc.php:526
+msgid "Show \"Add to Cart\" button"
+msgstr "显示“加入购物车”按钮"
+
+#: includes/tabs/class-amphtml-tab-wc.php:535
+msgid "Add to Cart Text"
+msgstr "添加到购物车文本"
+
+#: includes/tabs/class-amphtml-tab-wc.php:540
+msgid "\"Add to Cart\" button text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:544
+msgid "Add to Cart Behavior"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:548
+msgid "\"Add to Cart\" button click action"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:562
+msgid "Add to cart and redirect to product page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:566
+msgid "Add to cart and redirect to cart page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:570
+msgid "Add to cart and redirect to checkout page"
+msgstr "添加到购物车并重定向到结帐页"
+
+#: includes/tabs/class-amphtml-tab-wc.php:573
+msgid "Redirect to product page"
+msgstr ""
+
+#: modules/class-amphtml-ad.php:29
+msgid "Ads"
+msgstr "广告"
+
+#: modules/class-amphtml-ad.php:56
+msgid "Add New"
+msgstr "添加新的"
+
+#: modules/class-amphtml-ad.php:62
+msgid "Delete Current"
+msgstr ""
+
+#: modules/class-amphtml-wc.php:112
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: modules/class-amphtml-wc.php:120
+msgid "Add to Cart Button"
+msgstr "添加到购物车按钮"
+
+#: modules/class-amphtml-wc.php:140
+msgid "WooCommerce Content Type"
+msgstr ""
+
+#: modules/class-amphtml-wc.php:240 modules/class-amphtml-wc.php:385
+msgid "Offer"
+msgstr "工作"
+
+#: templates/comments.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "一个回答 &ldquo;%s&rdquo;"
+
+#: templates/comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s 个回复 &ldquo;%2$s&rdquo;"
+
+#: templates/comments.php:39
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: templates/deprec-templates/options.php:49
+msgid "Quantity: "
+msgstr "数量："
+
+#: templates/deprec-templates/pagination.php:2
+#: templates/parts/post_content.php:8
+msgid "Next &raquo;"
+msgstr "下一个 &raquo;"
+
+#: templates/deprec-templates/pagination.php:3
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一页"
+
+#: templates/deprec-templates/product_add_to_cart_block.php:10
+#: templates/parts/product_add_to_cart_block.php:10
+msgid "Out Of Stock"
+msgstr "缺货"
+
+#: templates/deprec-templates/product_add_to_cart_block.php:12
+#: templates/parts/product_add_to_cart_block.php:12
+msgid "In Stock"
+msgstr "有货"
+
+#: templates/deprec-templates/product_description_block.php:31
+#: templates/parts/product_description_block.php:32
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] "%s 评论 %s%s%s"
+
+#: templates/deprec-templates/product_description_block.php:47
+#: templates/parts/product_description_block.php:48
+msgid "There are no reviews yet."
+msgstr "目前还没有评论。"
+
+#: templates/deprec-templates/product_description_block.php:52
+#: templates/parts/product_description_block.php:53
+msgid "Add a review"
+msgstr "添加评论"
+
+#: templates/meta-cats.php:9 templates/meta-tags.php:9
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: templates/no-form.php:2
+msgid "This page contains a form, you can see it"
+msgstr "此页包含一个窗体, 您可以看到它"
+
+#: templates/parts/pagination.php:2
+msgid "Previous"
+msgstr "上一个"
+
+#: templates/parts/pagination.php:3
+msgid "Next"
+msgstr "下一个"
+
+#: templates/parts/post_content.php:9
+msgid "&laquo; Prev"
+msgstr "&laquo; 上一页"
+
+#: templates/parts/product_categories.php:10
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "分类："
+
+#: templates/parts/product_tags.php:10
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] "标签："
+
+#: templates/parts/search_page_title.php:3
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: templates/parts/search_page_title.php:6
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: templates/search-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "对不起，没有匹配您的搜索条件。请用一些不同的关键字再试一次。"
+
+#: templates/search-none.php:12
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看来我们无法找到您所需要的东西。 也许搜索可以帮助。"
+
+#: templates/searchform.php:22
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: templates/searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "搜索"
+
+#: wp-amp.php:794
+msgid "The user name or a license code is wrong."
+msgstr ""
+
+#~ msgid "Schema.org"
+#~ msgstr "Schema.org"
+
+#~ msgid "data-ad-client"
+#~ msgstr "数据广告客户端"

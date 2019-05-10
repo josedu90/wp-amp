@@ -1,0 +1,1 @@
+<?php printf( '%s', __( $this->custom_html, 'amphtml' ) );

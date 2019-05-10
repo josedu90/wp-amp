@@ -1,0 +1,1789 @@
+# Loco Gettext template
+msgid ""
+msgstr ""
+"Project-Id-Version: WP AMP - Accelerated Mobile Pages for WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-20 16:19+0200\n"
+"POT-Revision-Date: Thu Aug 11 2016 14:27:32 GMT+0300 (FLE Daylight Time)\n"
+"PO-Revision-Date: 2019-02-20 22:55+0200\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n==3 ? "
+"3 : n==6 ? 4 : 5);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Language: cy\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: includes/amphtml-helper-functions.php:100
+msgid "You currently have no scheduled cron events."
+msgstr ""
+
+#: includes/class-amphtml-license.php:58
+#, php-format
+msgid "Update plugin WP AMP <a href='%s'>View</a>"
+msgstr ""
+
+#: includes/class-amphtml-license.php:73
+#, php-format
+msgid ""
+"Please, activate  WP AMP plugin on the <a href='%s'>License tab</a> as some "
+"features may not work until the activation."
+msgstr ""
+
+#: includes/class-amphtml-license.php:115
+msgid "Server is unavailable at the moment, try again later"
+msgstr ""
+
+#: includes/class-amphtml-license.php:117
+msgid "Verified! Thanks for purchasing wp amp"
+msgstr ""
+
+#: includes/class-amphtml-license.php:122
+msgid "Connection to server failed, please contact support"
+msgstr ""
+
+#: includes/class-amphtml-license.php:247
+msgid "Preparing to download main update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:250
+msgid "Main Update size : "
+msgstr ""
+
+#: includes/class-amphtml-license.php:250
+#: includes/class-amphtml-license.php:299
+msgid ", please don't refresh your browser."
+msgstr ""
+
+#: includes/class-amphtml-license.php:266
+msgid "Downloading main update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:288
+msgid "Main update files downloaded and extracted."
+msgstr ""
+
+#: includes/class-amphtml-license.php:297
+msgid "Preparing to download SQL update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:299
+msgid "SQL Update size : "
+msgstr ""
+
+#: includes/class-amphtml-license.php:314
+msgid "Downloading SQL update..."
+msgstr ""
+
+#: includes/class-amphtml-license.php:328
+msgid "SQL update files downloaded."
+msgstr ""
+
+#: includes/class-amphtml-license.php:330
+msgid ""
+"Update successful, Please import the downloaded sql file in your current "
+"database."
+msgstr ""
+
+#: includes/class-amphtml-license.php:334
+msgid ""
+"Update successful, There were no SQL updates. So you can run the updated "
+"application directly."
+msgstr ""
+
+#: includes/class-amphtml-options.php:49
+msgid "WP AMP Endpoint"
+msgstr ""
+
+#: includes/class-amphtml-options.php:63
+#: includes/tabs/class-amphtml-tab-analytics.php:122
+#: includes/tabs/class-amphtml-tab-general.php:189
+msgid "Insert a valid endpoint"
+msgstr ""
+
+#: includes/class-amphtml-options.php:93
+msgid "View AMP Version"
+msgstr ""
+
+#: includes/class-amphtml-options.php:108
+msgid "Visit AMP Site"
+msgstr ""
+
+#: includes/class-amphtml-options.php:178
+msgid "AMP Menu"
+msgstr ""
+
+#: includes/class-amphtml-options.php:179
+msgid "AMP Menu Footer"
+msgstr ""
+
+#: includes/class-amphtml-options.php:217
+msgid "WP AMP Settings"
+msgstr ""
+
+#: includes/class-amphtml-options.php:383
+msgid "WP AMP featured Image"
+msgstr ""
+
+#: includes/class-amphtml-options.php:417
+msgid "Remove featured image"
+msgstr "Tynnu delwedd featured"
+
+#: includes/class-amphtml-options.php:423
+msgid "Set featured Image"
+msgstr ""
+
+#: includes/class-amphtml-options.php:423
+msgid "Choose an image"
+msgstr ""
+
+#: includes/class-amphtml-options.php:490
+msgid "Override AMP Content"
+msgstr ""
+
+#: includes/class-amphtml-options.php:499
+#: includes/tabs/class-amphtml-tab-appearance.php:51
+#: includes/tabs/class-amphtml-tab-templates.php:302
+#: includes/tabs/class-amphtml-tab-templates.php:341
+#: includes/tabs/class-amphtml-tab-wc.php:64
+msgid "Title"
+msgstr "Teitl"
+
+#: includes/class-amphtml-options.php:506
+msgid "Override AMP Title"
+msgstr ""
+
+#: includes/class-amphtml-options.php:515
+msgid "Disable AMP version of this page"
+msgstr ""
+
+#: includes/class-amphtml-shortcode.php:68
+#: includes/tabs/class-amphtml-tab-templates.php:298
+msgid "You May Also Like"
+msgstr ""
+
+#: includes/class-amphtml-shortcode.php:81
+msgid "Latest blog posts"
+msgstr ""
+
+#: includes/class-amphtml-shortcode.php:129
+msgid "Switch to default version"
+msgstr ""
+
+#: includes/class-amphtml-tab-abstract.php:103
+msgid "ID is required settings option!"
+msgstr ""
+
+#: includes/class-amphtml-tab-abstract.php:163
+#: includes/tabs/class-amphtml-tab-appearance.php:445
+#: templates/deprec-templates/title_404.php:2 templates/parts/content_404.php:1
+#: templates/parts/title_404.php:2
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: includes/class-amphtml-tab-abstract.php:256
+#: includes/tabs/class-amphtml-tab-appearance.php:709
+#: includes/tabs/class-amphtml-tab-license.php:33
+msgid "Save Changes"
+msgstr "Cadw Newidiadau"
+
+#: includes/class-amphtml-tab.php:26
+msgid "General"
+msgstr "Cyffredinol"
+
+#: includes/class-amphtml-tab.php:27
+msgid "Analytics"
+msgstr "Analytig"
+
+#: includes/class-amphtml-tab.php:28
+msgid "Appearance"
+msgstr "Golwg"
+
+#: includes/class-amphtml-tab.php:29
+msgid "Templates"
+msgstr ""
+
+#: includes/class-amphtml-tab.php:31
+#: includes/tabs/class-amphtml-tab-troubleshooting.php:13
+msgid "Troubleshooting"
+msgstr ""
+
+#: includes/class-amphtml-tab.php:32
+#: includes/tabs/class-amphtml-tab-status.php:13
+msgid "System Status"
+msgstr ""
+
+#: includes/class-amphtml-tab.php:33
+msgid "License"
+msgstr ""
+
+#: includes/class-amphtml-template.php:378
+msgid "Read more"
+msgstr "Darllen mwy"
+
+#: includes/class-amphtml-template.php:1017
+msgid "Search Results"
+msgstr "Canlyniadau Chwilio"
+
+#: includes/class-amphtml-template.php:1116
+msgid "Home"
+msgstr "Cartref"
+
+#: includes/class-amphtml-template.php:1117
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: includes/class-amphtml-template.php:1118
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: includes/class-amphtml-template.php:1119
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: includes/class-amphtml-template.php:1120
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: includes/class-amphtml-template.php:1121
+msgid "Error 404"
+msgstr ""
+
+#: includes/class-amphtml-template.php:1122
+#, php-format
+msgid "Page %s"
+msgstr "Tudalen %s"
+
+#: includes/class-amphtml-template.php:1123
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:28
+#: includes/tabs/class-amphtml-tab-wc.php:247 modules/class-amphtml-ad.php:138
+msgid "Ad Block #1"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:29
+#: includes/tabs/class-amphtml-tab-wc.php:257 modules/class-amphtml-ad.php:148
+msgid "Ad Block #2"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:42
+msgid "Type"
+msgstr "Math"
+
+#: includes/tabs/class-amphtml-tab-ad.php:47
+msgid "Ad network"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:51
+msgid "Layout"
+msgstr "Cynllun"
+
+#: includes/tabs/class-amphtml-tab-ad.php:65
+msgid "Height"
+msgstr "Uchder"
+
+#: includes/tabs/class-amphtml-tab-ad.php:71
+msgid "Ad block height (in pixels)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:75
+msgid "Width"
+msgstr "Lled"
+
+#: includes/tabs/class-amphtml-tab-ad.php:81
+msgid "Ad block width (in pixels)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:85
+#: includes/tabs/class-amphtml-tab-ad.php:104
+msgid "Data Slot"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:95
+msgid "AdSense Client"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:110
+msgid "data-ad-slot"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:114
+msgid "Custom Ad"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:120
+msgid ""
+"Put Ad code in accordance with the <a href=\"https://www.ampproject.org/docs/"
+"reference/components/amp-ad\">Reference</a>"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:146
+msgid "Insert a valid ad block width"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:152
+msgid "Insert a valid ad block height"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:162
+msgid "Insert a valid ad adsense data slot"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:171
+msgid "AdSense"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:174
+msgid "Doubleclick"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-ad.php:177
+msgid "Other"
+msgstr "Arall"
+
+#: includes/tabs/class-amphtml-tab-ad.php:180
+msgid "AdSense Auto Ads"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:13
+msgid "Google Analytics Code"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:18
+msgid "Setup Google Analytics tracking ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:22
+msgid "Google Tag Manager ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:27
+msgid "Replacing GTM-XXXXXX with your container ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:31
+msgid "Yandex Metrika counter ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:36
+msgid "Setup Yandex Metrika counter ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:40
+msgid "Facebook Pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:44
+msgid "Setup Facebook pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:48
+msgid "Custom Analytic"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:52
+msgid "Put custom analytics code here"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:72
+msgid "Insert a valid Google Analytics ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:87
+msgid "Insert a valid counter ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:98
+#: includes/tabs/class-amphtml-tab-general.php:140
+msgid "Insert a valid content width"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-analytics.php:111
+msgid "Insert a valid Pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:19
+msgid "Colors"
+msgstr "Lliwiau"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:20
+msgid "Fonts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:21
+msgid "Header"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:22
+#: includes/tabs/class-amphtml-tab-appearance.php:78
+msgid "Footer"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:23
+msgid "Post Meta Data"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:24
+#: includes/tabs/class-amphtml-tab-appearance.php:330
+#: includes/tabs/class-amphtml-tab-templates.php:276
+#: includes/tabs/class-amphtml-tab-templates.php:467
+#: includes/tabs/class-amphtml-tab-wc.php:172
+msgid "Social Share Buttons"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:25
+#: includes/tabs/class-amphtml-tab-appearance.php:364
+msgid "Extra CSS"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:33
+msgid "Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:42
+#: templates/deprec-templates/nav.php:70 templates/deprec-templates/nav.php:82
+#: templates/nav.php:70 templates/nav.php:87
+msgid "Menu"
+msgstr "Dewislen"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:60
+msgid "Post Meta"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:69
+msgid "Content"
+msgstr "Cynnwys"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:87
+msgid "Custom Fonts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:102
+msgid "Page Background"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:108
+msgid "Header Background"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:114
+msgid "Header Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:120
+msgid "Header Menu Background"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:126
+msgid "Header Menu Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:132
+msgid "Main Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:138
+msgid "Main Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:144
+msgid "Link Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:150
+msgid "Link Hover"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:156
+msgid "Inputs Color"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:162
+msgid "Footer Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:168
+msgid "Footer Background"
+msgstr "Cefndir Troedyn"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:190
+msgid "Favicon"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:197
+msgid "Header Menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:199
+msgid "Show header menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:199
+msgid "set AMP menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:206
+msgid "Header Menu Type"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:214
+msgid "Header Menu Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:222
+msgid "Logo Type"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:230
+msgid "Logo Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:239
+msgid "Logo Icon"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:251
+msgid "Footer Menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:253
+msgid "Show footer menu"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:253
+msgid "set footer AMP menu "
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:260
+msgid "Footer Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:265
+msgid ""
+"This is the footer content block for all AMP pages. <br>Leave empty to hide "
+"footer at all. <br>Plain html without inline styles allowed. (<a href="
+"\"https://github.com/ampproject/amphtml/blob/master/spec/amp-tag-addendum."
+"md#html5-tag-whitelist\" target=\"_blank\">HTML5 Tag Whitelist</a>)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:269
+msgid "Scroll to Top Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:270
+msgid "Back to top"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:274
+msgid "Leave empty to hide this button."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:283
+msgid "Author"
+msgstr "Awdur"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:288
+msgid "Show post author"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:292
+#: includes/tabs/class-amphtml-tab-wc.php:145 templates/meta-cats.php:13
+msgid "Categories"
+msgstr "Categorïau"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:297
+msgid "Show post categories"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:301
+#: includes/tabs/class-amphtml-tab-wc.php:154 templates/meta-tags.php:13
+msgid "Tags"
+msgstr "Tagiau"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:306
+msgid "Show post tags"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:310
+msgid "Date Format"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:336
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:337
+msgid "Twitter"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:338
+msgid "LinkedIn"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:339
+msgid "Google Plus"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:340
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:341
+msgid "WhatsApp"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:342
+msgid "Email"
+msgstr "E-bost"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:349
+msgid "Facebook Like"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:354
+msgid "Show Facebook like button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:363
+msgid "Enter Your CSS Code"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:388
+msgid "Insert a valid color"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:459
+#: includes/tabs/class-amphtml-tab-appearance.php:460
+#: includes/tabs/class-amphtml-tab-appearance.php:493
+#: includes/tabs/class-amphtml-tab-appearance.php:494
+msgid "Font "
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:463
+msgid "Font name "
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:465
+#: includes/tabs/class-amphtml-tab-appearance.php:499
+#: includes/tabs/class-amphtml-tab-appearance.php:501
+msgid "Font name"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:469
+#: includes/tabs/class-amphtml-tab-appearance.php:507
+msgid "Font link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:471
+#: includes/tabs/class-amphtml-tab-appearance.php:509
+msgid "Path to the font file (font-weight: regular)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:475
+#: includes/tabs/class-amphtml-tab-appearance.php:515
+msgid "Bold Font link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:477
+#: includes/tabs/class-amphtml-tab-appearance.php:517
+msgid "Path to the font file (font-weight: bold)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:480
+msgid "Delete font"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:480
+#: includes/tabs/class-amphtml-tab-appearance.php:521
+msgid "Delete the font"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:528
+msgid "Add font"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:562
+msgid "Icon Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:565
+msgid "Text Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:568
+msgid "Icon and Text Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:571
+msgid "Image Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:585
+msgid "Site Logo"
+msgstr "Logo'r Wefan"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:590
+#: includes/tabs/class-amphtml-tab-appearance.php:616
+#: includes/tabs/class-amphtml-tab-schemaorg.php:53
+#: includes/tabs/class-amphtml-tab-schemaorg.php:76
+msgid "Upload Image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:595
+#: includes/tabs/class-amphtml-tab-appearance.php:621
+#: includes/tabs/class-amphtml-tab-schemaorg.php:55
+#: includes/tabs/class-amphtml-tab-schemaorg.php:78
+msgid "Reset Image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:597
+#: includes/tabs/class-amphtml-tab-appearance.php:622
+msgid "The image will have full size."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:598
+msgid "The image will be resized to fit in a 32x32 box (but not cropped)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:611
+msgid "Site Favicon"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:674
+msgid "None"
+msgstr "Dim"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:683
+#: templates/meta-time.php:15
+#, php-format
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s yn ôl"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:683
+msgid "Relative"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:691
+msgid "Default system format"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:693
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:697
+msgid "Custom:"
+msgstr "Eich dewis:"
+
+#: includes/tabs/class-amphtml-tab-appearance.php:712
+msgid "Default theme settings"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:725
+msgid "Important"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:725
+msgid "Do not use disallowed styles for avoiding AMP validation errors."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:726
+msgid "Please see"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-appearance.php:728
+msgid "Supported CSS"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:13
+msgid "AMP Endpoint"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:16
+msgid ""
+"This string will be added to the end of URL for all pages with AMP content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:20
+msgid "Redirect Mobile Users"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:23
+msgid "Redirect all mobile users to AMP version by default"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:27
+msgid "AMP Content Max-Width"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:31
+msgid "Setup maximum width for AMP content (in pixels)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:35
+msgid "AMP Element Default Height"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:39
+msgid ""
+"If element (image, iframe, etc) height value does not exist, will be applied "
+"this one"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:44
+msgid "Post Types"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:51
+msgid "Enable AMP for selected post types"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:55
+#: includes/tabs/class-amphtml-tab-templates.php:20
+msgid "Archives"
+msgstr "Archifau"
+
+#: includes/tabs/class-amphtml-tab-general.php:62
+msgid "Enable AMP for selected archive pages"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:66
+msgid "Compatibility Mode"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:70
+msgid "Remove third-party the_content hooks for better compatibility"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:74
+msgid "Hide Forms"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:78
+msgid "Hide forms in post content for avoiding validation errors"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:82
+msgid "Hide Contact Forms"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:86
+msgid "Hide contact forms in post content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:90
+msgid "Enable RTL"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:94
+msgid "Enable Right-to-Left language support"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:98
+msgid "Excerpt length"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:103
+msgid "Limit number of words that are shown on excerpt."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:107
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:118
+msgid "Show errors, warnings and notices"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:122
+msgid "Design template"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:132
+#, php-format
+msgid ""
+"Old styles will not work with the new design. If you are going to use the "
+"new design template, please, backup your website and <a href=\"%s\">reset</"
+"a> old settings."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:153
+msgid "Insert a valid element height"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:166
+msgid "Insert a valid pixel ID"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-general.php:178
+msgid "The excerpt length field can contain only numbers"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:12
+msgid "Codecanyon user name"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:19
+msgid "Enter your License"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-license.php:39
+msgid "Update"
+msgstr "Diweddaru"
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:12
+msgid "Publisher Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:18
+#: includes/tabs/class-amphtml-tab-schemaorg.php:69
+msgid "Default Image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:24
+msgid "Content Type"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:47
+msgid "Default Logo"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:56
+msgid ""
+"This image is required for Schema.org markup. The logo should fit in a "
+"60x600px rectangle, and either be exactly 60px high or exactly 600px wide."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:58
+msgid "See full requirements."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:79
+msgid ""
+"This image is required for Schema.org markup and will be used if you have "
+"not set up featured image for post/page. Image should be at least 1200 "
+"pixels wide."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-schemaorg.php:81
+msgid "See requirements."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:62
+msgid "Server Environment"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:67
+msgid "Server Info"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:71
+msgid "PHP Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:82
+msgid "WP Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:93
+msgid "WooCommerce Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:104
+msgid "ABSPATH"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:108
+msgid "MySQL Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:112
+msgid "allow_url_fopen"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:120
+msgid "cURL Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:126
+msgid "N/A"
+msgstr "D/A"
+
+#: includes/tabs/class-amphtml-tab-status.php:161
+msgid "See WordPress minimum requirements"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-status.php:162 templates/no-form.php:3
+msgid "here"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:16
+msgid "Posts"
+msgstr "swyddi"
+
+#: includes/tabs/class-amphtml-tab-templates.php:17
+msgid "Pages"
+msgstr "Tudalennau"
+
+#: includes/tabs/class-amphtml-tab-templates.php:18
+msgid "Search"
+msgstr "Chwilio"
+
+#: includes/tabs/class-amphtml-tab-templates.php:19
+msgid "Blog Page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:21
+msgid "404 Page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:36
+#: includes/tabs/class-amphtml-tab-templates.php:169
+#: includes/tabs/class-amphtml-tab-templates.php:386
+#: includes/tabs/class-amphtml-tab-templates.php:490
+#: includes/tabs/class-amphtml-tab-templates.php:678
+#: includes/tabs/class-amphtml-tab-wc.php:25
+#: includes/tabs/class-amphtml-tab-wc.php:305
+#: includes/tabs/class-amphtml-tab-wc.php:415
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:41
+#: includes/tabs/class-amphtml-tab-templates.php:175
+#: includes/tabs/class-amphtml-tab-templates.php:392
+#: includes/tabs/class-amphtml-tab-templates.php:496
+#: includes/tabs/class-amphtml-tab-templates.php:684
+#: includes/tabs/class-amphtml-tab-wc.php:31
+#: includes/tabs/class-amphtml-tab-wc.php:314
+#: includes/tabs/class-amphtml-tab-wc.php:424
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:45
+msgid "404 Page Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:46
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Wps! Does dim modd canfod y dudalen honno."
+
+#: includes/tabs/class-amphtml-tab-templates.php:54
+msgid "404 Page Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:55
+msgid "Nothing was found at this location."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:60
+#: includes/tabs/class-amphtml-tab-templates.php:245
+#: includes/tabs/class-amphtml-tab-templates.php:452
+#: includes/tabs/class-amphtml-tab-templates.php:515
+#: includes/tabs/class-amphtml-tab-templates.php:614
+#: includes/tabs/class-amphtml-tab-templates.php:732
+msgid ""
+"Plain html without inline styles allowed. (<a href=\"https://github.com/"
+"ampproject/amphtml/blob/master/spec/amp-tag-addendum.md#html5-tag-whitelist"
+"\" target=\"_blank\">HTML5 Tag Whitelist</a>)"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:64
+#: includes/tabs/class-amphtml-tab-templates.php:180
+#: includes/tabs/class-amphtml-tab-templates.php:417
+#: includes/tabs/class-amphtml-tab-templates.php:557
+#: includes/tabs/class-amphtml-tab-templates.php:656
+#: includes/tabs/class-amphtml-tab-templates.php:783
+msgid "Search Form"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:69
+#: includes/tabs/class-amphtml-tab-templates.php:185
+#: includes/tabs/class-amphtml-tab-templates.php:422
+#: includes/tabs/class-amphtml-tab-templates.php:562
+#: includes/tabs/class-amphtml-tab-templates.php:661
+#: includes/tabs/class-amphtml-tab-templates.php:788
+msgid "Enable search form. Needs SSL certificate for AMP validation."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:190
+#: includes/tabs/class-amphtml-tab-templates.php:397
+#: includes/tabs/class-amphtml-tab-templates.php:580
+#: includes/tabs/class-amphtml-tab-templates.php:689
+#: includes/tabs/class-amphtml-tab-wc.php:36
+#: includes/tabs/class-amphtml-tab-wc.php:291
+#: includes/tabs/class-amphtml-tab-wc.php:441
+msgid "Original Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:196
+msgid "Show link to the original version of the post"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:201
+#: includes/tabs/class-amphtml-tab-templates.php:408
+#: includes/tabs/class-amphtml-tab-templates.php:591
+#: includes/tabs/class-amphtml-tab-templates.php:700
+#: includes/tabs/class-amphtml-tab-wc.php:47
+#: includes/tabs/class-amphtml-tab-wc.php:319
+#: includes/tabs/class-amphtml-tab-wc.php:456
+msgid "View Original Version"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:205
+#: includes/tabs/class-amphtml-tab-templates.php:225
+#: includes/tabs/class-amphtml-tab-templates.php:412
+#: includes/tabs/class-amphtml-tab-templates.php:595
+#: includes/tabs/class-amphtml-tab-templates.php:704
+#: includes/tabs/class-amphtml-tab-wc.php:51
+#: includes/tabs/class-amphtml-tab-wc.php:323
+#: includes/tabs/class-amphtml-tab-wc.php:460
+msgid "Button title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:210
+msgid "Comments Button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:216
+msgid "Show link to the comment form"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:221
+#: templates/parts/page_comments_btn.php:11
+msgid "Comments"
+msgstr "Sylwadau"
+
+#: includes/tabs/class-amphtml-tab-templates.php:230
+msgid "Post Title"
+msgstr "Teitlau Cofnod"
+
+#: includes/tabs/class-amphtml-tab-templates.php:239
+#: includes/tabs/class-amphtml-tab-templates.php:446
+#: includes/tabs/class-amphtml-tab-templates.php:509
+#: includes/tabs/class-amphtml-tab-templates.php:608
+#: includes/tabs/class-amphtml-tab-templates.php:726
+msgid "Custom HTML"
+msgstr "HTML Cyfaddas"
+
+#: includes/tabs/class-amphtml-tab-templates.php:249
+#: includes/tabs/class-amphtml-tab-templates.php:436
+#: includes/tabs/class-amphtml-tab-templates.php:529
+#: includes/tabs/class-amphtml-tab-templates.php:628
+msgid "Featured Image"
+msgstr "Delwedd Nodwedd"
+
+#: includes/tabs/class-amphtml-tab-templates.php:254
+msgid "Show post thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:258
+#: includes/tabs/class-amphtml-tab-templates.php:538
+#: includes/tabs/class-amphtml-tab-templates.php:637
+#: includes/tabs/class-amphtml-tab-templates.php:764
+msgid "Post Meta Block"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:263
+#: includes/tabs/class-amphtml-tab-templates.php:769
+msgid "Show post author, categories and published time"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:267
+msgid "Post Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:282
+#: includes/tabs/class-amphtml-tab-templates.php:473
+#: includes/tabs/class-amphtml-tab-wc.php:177
+msgid "Show social share buttons"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:287
+msgid "Related Posts"
+msgstr "Swyddi cysylltiedig"
+
+#: includes/tabs/class-amphtml-tab-templates.php:293
+msgid "Show related posts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:297
+msgid "Related Posts Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:306
+msgid "Number of Related Posts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:311
+#: includes/tabs/class-amphtml-tab-templates.php:350
+msgid "Post count"
+msgstr "Cyfrif Cofnodion"
+
+#: includes/tabs/class-amphtml-tab-templates.php:315
+#: includes/tabs/class-amphtml-tab-templates.php:354
+msgid "Post"
+msgstr "Cofnod"
+
+#: includes/tabs/class-amphtml-tab-templates.php:320
+#: includes/tabs/class-amphtml-tab-templates.php:359
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:326
+#: includes/tabs/class-amphtml-tab-templates.php:337
+msgid "Recent Posts"
+msgstr "Cofnodion Diweddar"
+
+#: includes/tabs/class-amphtml-tab-templates.php:332
+msgid "Show recent posts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:336
+msgid "Recent Posts Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:345
+msgid "Number of Recent Posts"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:363
+msgid "Post Comments"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:368
+msgid "Show post comments"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:403
+#: includes/tabs/class-amphtml-tab-wc.php:301
+#: includes/tabs/class-amphtml-tab-wc.php:451
+msgid "Show link to the original version of the page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:426
+#: includes/tabs/class-amphtml-tab-templates.php:500
+msgid "Page Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:442
+msgid "Show page thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:457
+msgid "Page Content"
+msgstr "Cynnwys y dudalen "
+
+#: includes/tabs/class-amphtml-tab-templates.php:520
+#: includes/tabs/class-amphtml-tab-templates.php:619
+#: includes/tabs/class-amphtml-tab-templates.php:737
+#: includes/tabs/class-amphtml-tab-wc.php:181
+msgid "Content Block"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:525
+msgid "Search Page Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:534
+#: includes/tabs/class-amphtml-tab-templates.php:633
+msgid "Show posts thumbnail"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:543
+#: includes/tabs/class-amphtml-tab-templates.php:642
+msgid "Show posts author, categories and published time"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:547
+#: includes/tabs/class-amphtml-tab-templates.php:646
+msgid "Excerpt Block"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:552
+#: includes/tabs/class-amphtml-tab-templates.php:651
+msgid "Show excerpt"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:586
+msgid "Show link to the original version of the blog"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:599
+msgid "Blog Page Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:600
+msgid "Blog"
+msgstr "Blog"
+
+#: includes/tabs/class-amphtml-tab-templates.php:624
+msgid "Blog Page Content"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:695
+msgid "Show link to the original version of the archive"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:708
+msgid "Archive Title"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:717
+#: includes/tabs/class-amphtml-tab-wc.php:190
+#: includes/tabs/class-amphtml-tab-wc.php:428
+msgid "Description"
+msgstr "Disgrifiad"
+
+#: includes/tabs/class-amphtml-tab-templates.php:722
+#: includes/tabs/class-amphtml-tab-wc.php:436
+msgid "Show description of archive page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:746
+msgid "Featured Images"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:751
+msgid "Show posts thumbnails"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:755
+msgid "Featured Images Link"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:760
+msgid "Link featured images to the post"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:773
+msgid "Post Excerpt"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-templates.php:778
+msgid "Show post excerpt"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:10
+msgid "Product Page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:11
+msgid "Shop Page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:12
+msgid "Product Archives"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:13
+#: includes/tabs/class-amphtml-tab-wc.php:385
+#: includes/tabs/class-amphtml-tab-wc.php:521
+msgid "Add to Cart"
+msgstr "Rhoi yn y Fasged"
+
+#: includes/tabs/class-amphtml-tab-wc.php:42
+msgid "Show link to the original version of the product"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:55
+#: includes/tabs/class-amphtml-tab-wc.php:339
+#: includes/tabs/class-amphtml-tab-wc.php:476
+msgid "Image"
+msgstr "Delwedd"
+
+#: includes/tabs/class-amphtml-tab-wc.php:60
+msgid "Show product image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:73 templates/parts/product_sku.php:2
+msgid "SKU"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:78
+msgid "Show product SKU"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:82
+#: includes/tabs/class-amphtml-tab-wc.php:227
+#: includes/tabs/class-amphtml-tab-wc.php:348
+#: includes/tabs/class-amphtml-tab-wc.php:485
+msgid "Rating"
+msgstr "Marc"
+
+#: includes/tabs/class-amphtml-tab-wc.php:87
+#: includes/tabs/class-amphtml-tab-wc.php:232
+#: includes/tabs/class-amphtml-tab-wc.php:353
+#: includes/tabs/class-amphtml-tab-wc.php:490
+msgid "Show product rating"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:91
+#: includes/tabs/class-amphtml-tab-wc.php:367
+#: includes/tabs/class-amphtml-tab-wc.php:503
+msgid "Add To Cart Block"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:100
+#: includes/tabs/class-amphtml-tab-wc.php:236
+#: includes/tabs/class-amphtml-tab-wc.php:376
+#: includes/tabs/class-amphtml-tab-wc.php:512
+#: templates/deprec-templates/shop_add_to_cart_block.php:3
+#: templates/deprec-templates/wc_archives_add_to_cart_block.php:3
+msgid "Price"
+msgstr "Pris"
+
+#: includes/tabs/class-amphtml-tab-wc.php:105
+#: includes/tabs/class-amphtml-tab-wc.php:241
+msgid "Show product price"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:109
+msgid "Stock Status"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:114
+msgid "Show product stock status"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:118
+msgid "Quantity"
+msgstr "Nifer"
+
+#: includes/tabs/class-amphtml-tab-wc.php:123
+msgid "Show quantity option. Needs SSL certificate for AMP validation."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:127
+msgid "Options"
+msgstr "Dewisiadau"
+
+#: includes/tabs/class-amphtml-tab-wc.php:132
+msgid "Show variable options. Needs SSL certificate for AMP validation."
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:136
+#: includes/tabs/class-amphtml-tab-wc.php:536
+msgid "Add To Cart"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:141
+msgid "Show add to cart button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:150
+msgid "Show product categories"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:159
+msgid "Show product tags"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:163
+#: includes/tabs/class-amphtml-tab-wc.php:357
+#: includes/tabs/class-amphtml-tab-wc.php:494
+msgid "Short Description"
+msgstr "Disgrifiad byr"
+
+#: includes/tabs/class-amphtml-tab-wc.php:168
+msgid "Show product short description"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:195
+msgid "Show product description"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:199
+msgid "Attributes"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:204
+msgid "Show product attributes"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:208
+#: templates/deprec-templates/product_description_block.php:33
+msgid "Reviews"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:213
+msgid "Show product reviews"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:217
+#: templates/parts/product_related_products_block.php:13
+msgid "Related Products"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:223
+msgid "Show related products"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:252 modules/class-amphtml-ad.php:143
+msgid "Show ad block #1"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:262 modules/class-amphtml-ad.php:153
+msgid "Show ad block #2"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:274
+#: includes/tabs/class-amphtml-tab-wc.php:399
+msgid "View"
+msgstr "Golwg"
+
+#: includes/tabs/class-amphtml-tab-wc.php:327
+#: includes/tabs/class-amphtml-tab-wc.php:464
+msgid "Link Image"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:335
+#: includes/tabs/class-amphtml-tab-wc.php:472
+msgid "Link product images"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:344
+#: includes/tabs/class-amphtml-tab-wc.php:481
+msgid "Show product images"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:363
+#: includes/tabs/class-amphtml-tab-wc.php:499
+msgid "Show product short descriptions"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:381
+#: includes/tabs/class-amphtml-tab-wc.php:517
+msgid "Show product prices"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:390
+#: includes/tabs/class-amphtml-tab-wc.php:526
+msgid "Show \"Add to Cart\" button"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:535
+msgid "Add to Cart Text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:540
+msgid "\"Add to Cart\" button text"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:544
+msgid "Add to Cart Behavior"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:548
+msgid "\"Add to Cart\" button click action"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:562
+msgid "Add to cart and redirect to product page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:566
+msgid "Add to cart and redirect to cart page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:570
+msgid "Add to cart and redirect to checkout page"
+msgstr ""
+
+#: includes/tabs/class-amphtml-tab-wc.php:573
+msgid "Redirect to product page"
+msgstr ""
+
+#: modules/class-amphtml-ad.php:29
+msgid "Ads"
+msgstr ""
+
+#: modules/class-amphtml-ad.php:56
+msgid "Add New"
+msgstr "Ychwanegu newydd [portffolio]"
+
+#: modules/class-amphtml-ad.php:62
+msgid "Delete Current"
+msgstr ""
+
+#: modules/class-amphtml-wc.php:112
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: modules/class-amphtml-wc.php:120
+msgid "Add to Cart Button"
+msgstr ""
+
+#: modules/class-amphtml-wc.php:140
+msgid "WooCommerce Content Type"
+msgstr ""
+
+#: modules/class-amphtml-wc.php:240 modules/class-amphtml-wc.php:385
+msgid "Offer"
+msgstr ""
+
+#: templates/comments.php:19
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "Un Ymateb i “%s”"
+
+#: templates/comments.php:22
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/comments.php:39
+msgid "Comments are closed."
+msgstr "Sylwadau ar gau."
+
+#: templates/deprec-templates/options.php:49
+msgid "Quantity: "
+msgstr ""
+
+#: templates/deprec-templates/pagination.php:2
+#: templates/parts/post_content.php:8
+msgid "Next &raquo;"
+msgstr ""
+
+#: templates/deprec-templates/pagination.php:3
+msgid "&laquo; Previous"
+msgstr ""
+
+#: templates/deprec-templates/product_add_to_cart_block.php:10
+#: templates/parts/product_add_to_cart_block.php:10
+msgid "Out Of Stock"
+msgstr ""
+
+#: templates/deprec-templates/product_add_to_cart_block.php:12
+#: templates/parts/product_add_to_cart_block.php:12
+msgid "In Stock"
+msgstr ""
+
+#: templates/deprec-templates/product_description_block.php:31
+#: templates/parts/product_description_block.php:32
+#, php-format
+msgid "%s review for %s%s%s"
+msgid_plural "%s reviews for %s%s%s"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/deprec-templates/product_description_block.php:47
+#: templates/parts/product_description_block.php:48
+msgid "There are no reviews yet."
+msgstr "Dim adolygiadau eto."
+
+#: templates/deprec-templates/product_description_block.php:52
+#: templates/parts/product_description_block.php:53
+msgid "Add a review"
+msgstr "Ychwanegu adolygiad"
+
+#: templates/meta-cats.php:9 templates/meta-tags.php:9
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: templates/no-form.php:2
+msgid "This page contains a form, you can see it"
+msgstr ""
+
+#: templates/parts/pagination.php:2
+msgid "Previous"
+msgstr "Blaenorol"
+
+#: templates/parts/pagination.php:3
+msgid "Next"
+msgstr "Nesaf"
+
+#: templates/parts/post_content.php:9
+msgid "&laquo; Prev"
+msgstr ""
+
+#: templates/parts/product_categories.php:10
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] "Categori:"
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/parts/product_tags.php:10
+msgid "Tag:"
+msgid_plural "Tags:"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+msgstr[4] ""
+msgstr[5] ""
+
+#: templates/parts/search_page_title.php:3
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Canlyniadau Chwilio am: %s"
+
+#: templates/parts/search_page_title.php:6
+msgid "Nothing Found"
+msgstr "Heb Ganfod Dim"
+
+#: templates/search-none.php:10
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Ymddiheuriadau does dim yn cydweddu a'ch chwilio. Ceisiwch eto gydag "
+"allweddeiriau gwahanol."
+
+#: templates/search-none.php:12
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Nid ydym yn gallu canfod yr hyn rydych yn chwilio amdano. Beth am chwilio."
+
+#: templates/searchform.php:22
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Chwilio &hellip;"
+
+#: templates/searchform.php:26
+msgctxt "submit button"
+msgid "Search"
+msgstr "Chwilio"
+
+#: wp-amp.php:794
+msgid "The user name or a license code is wrong."
+msgstr ""
